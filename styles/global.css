@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .navBtn {
+    @apply hidden h-10 w-10 md:inline-flex 
+    cursor-pointer hover:scale-125 
+    transition-all duration-150 ease-out;
+  }
+  .imgPerfile {
+    @apply hover:scale-125 
+    transition-all duration-150 ease-out
+    rounded-full cursor-pointer
+    h-10;
+  }
+}
