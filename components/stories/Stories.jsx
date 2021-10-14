@@ -15,7 +15,8 @@ export default function Stories() {
   return (
     <div
       className="flex space-x-2 p-6 bg-white mt-5 border-gray-200
-         border rounded-sm overflow-x-scroll">
+         border rounded-sm overflow-x-scroll scrollbar-thin scrollbar-thumb-blue-500"
+    >
       {suggestions.map((profile) => (
         <Story key={profile.id} profile={profile} />
       ))}
