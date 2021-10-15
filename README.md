@@ -1,5 +1,5 @@
 # Next.js + Tailwind CSS Example
-
+<img src='https://github.com/Josimar-Victoria/insta-yt/blob/main/Captura%20de%20pantalla%20de%202021-10-14%2018-58-27.png?raw=true' alt='imsg'/>
 <img src='https://github.com/Josimar-Victoria/insta-yt/blob/main/Captura%20de%20pantalla%20de%202021-10-14%2018-56-15.png?raw=true' alt='img'/>
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
